@@ -1,0 +1,12 @@
+{
+  "showThemeCredit": false,
+  "name": "Andrew & Meredith",
+  "description": "On July 18, 2020 Andrew & Meredith are getting married at Alden & Harlow in Boston, MA. It will be awesome.",
+  "shortDesc": "Contact us at [hello@andrewandmeredith.com](mailto:hello@andrewandmeredith.com)",
+  "url": "https://andrew-andrew-meredith-11ty.netlify.com/",
+  "authorEmail": "hello@andrewandmeredith.com",
+  "authorName": "Andrew & Meredith",
+  "enableThirdPartyComments": false,
+  "faviconPath": "/images/favicon.ico",
+  "maxPostsPerPage": 5
+}

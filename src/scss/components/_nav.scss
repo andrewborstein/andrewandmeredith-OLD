@@ -1,0 +1,37 @@
+.nav {
+  @include apply-utility('font', 'montserrat');
+  text-transform: uppercase;
+
+  &__list {
+    // overflow-x: auto;
+    // -webkit-overflow-scrolling: touch;
+    // -ms-overflow-style: none;
+
+    // &::-webkit-scrollbar {
+    //   display: none;
+    // }
+
+    // > * + * {
+    //   margin-left: get-size(500);
+    // }
+
+    flex-wrap: wrap;
+  }
+
+  &__item {
+    margin-right: get-size(500);
+    padding: get-size(200) 0;
+    flex-shrink: 0;
+
+    a {
+      color: currentColor;
+
+      @include apply-utility('weight', 'light');
+      letter-spacing: 1px;
+
+      &:not(:hover) {
+        text-decoration: none;
+      }
+    }
+  }
+}

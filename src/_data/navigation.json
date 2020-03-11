@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "text": "RSVP",
+      "url": "/rsvp/"
+    },
+    {
+      "text": "Plan Your Trip",
+      "url": "/plan-your-trip/"
+    },
+    {
+      "text": "The Big Day",
+      "url": "/the-big-day/"
+    },
+    {
+      "text": "Everything Else",
+      "url": "/everything-else/"
+    }
+  ]
+}
